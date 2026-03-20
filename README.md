@@ -1,1 +1,1 @@
-"# Mi Proyecto Java\nEste es un proyecto de pr ctica para Git." 
+"# Mi Proyecto Java\nEste es un proyecto de practica para Git." 
